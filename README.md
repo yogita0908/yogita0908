@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44BD8,100:6C5CE7&height=200&section=header&text=Yogita%20Kasotia&fontSize=60&fontColor=fff&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Full-stackd%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44BD8,100:6C5CE7&height=200&section=header&text=Yogita%20Kasotia&fontSize=60&fontColor=fff&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <!-- Animated Typing SVG — centered, correct URL -->
 
@@ -19,7 +19,7 @@
 <!-- Profile Badges Row -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yogitakasotia&label=Profile%20Views&color=FF6B9D&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Full-stack%20Engineering-C44BD8?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Engineering-C44BD8?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Lives-New%20Delhi%2C%20India-6C5CE7?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/B.Tech-CSE%20%40%20MSIT%20%7C%208.54%20CGPA-FF6B9D?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </p>
