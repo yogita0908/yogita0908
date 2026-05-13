@@ -201,40 +201,13 @@ const yogita: Developer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yogitakasotia&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C44BD8&text_color=ffffff&ring_color=FF6B9D" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitakasotia&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&langs_count=8" height="170" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogitakasotia&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=C44BD8&currStreakLabel=FF6B9D" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogitakasotia&bg_color=0D1117&color=FF6B9D&line=C44BD8&point=6C5CE7&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yogitakasotia&theme=radical&no-frame=true&column=7&margin-w=4" />
-</div>
-
----
 
 ## 🌐 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogitakasotia)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogitakasotia)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20site-FF6B9D?style=for-the-badge&logo=safari&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogita-kasotia-b9b623240/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20site-FF6B9D?style=for-the-badge&logo=safari&logoColor=white)](https://yogitakasotia.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogitakasotia8316.12e@gmail.com)
 
 <br/>
