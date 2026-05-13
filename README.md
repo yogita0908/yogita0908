@@ -19,7 +19,7 @@
 <!-- Profile Badges Row -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yogitakasotia&label=Profile%20Views&color=FF6B9D&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-C44BD8?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full-stack%20Engineering-C44BD8?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Lives-New%20Delhi%2C%20India-6C5CE7?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/B.Tech-CSE%20%40%20MSIT%20%7C%208.54%20CGPA-FF6B9D?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </p>
